@@ -4,17 +4,17 @@
 
 Для начала работы перейдите в директорию app:
 
-cd app
+- cd app
 
 Виртуальное окружение активируйте командой:
 
-python -m venv venv
-.\venv\Scripts\activate
+- python -m venv venv
+- .\venv\Scripts\activate
 
 
 Затем запустите бота:
 
-python bot.py
+- python bot.py
 
 
 О проекте
