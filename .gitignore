@@ -4,5 +4,4 @@
 # Ada Library Information
 *.ali
 .idea/
-.idea/
-venv/
+app/venv/
